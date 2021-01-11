@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Collaborations'
 subtitle:
 
 # Date format
@@ -23,28 +23,43 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2019-01-01"
+  description: Tyrosine metabolism and ageing in <i>Drosophila</i>
+  organization: Harvard University
+  organization_url: https://perrimon.med.harvard.edu
+  title: Prof. Norbert Perrimon and Dr. Andrey Parkhitko
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2017-06-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Wayne State University
+  organization_url: https://physiology.med.wayne.edu/profile/dy4360
+  title: Asst. Prof. Robert Wessells
   url: ""
+- title: Prof. Reinhard Predel
+  organization_url: https://zoologie.uni-koeln.de/arbeitsgruppen/ag-predel
+  organization: University of Cologne
+  url: ""
+  certificate_url: ""
+  date_start: "2014-08-01"
+  date_end: ""
+  description: Identification of Agatoxin-like peptide, a novel neuropeptide in insects
+- title: Prof. Christoph Kleineidam
+  organization_url: https://www.biologie.uni-konstanz.de/en/kleineidam/
+  organization: University of Konstanz
+  url: ""
+  certificate_url: ""
+  date_start: "2019-12-01"
+  date_end: ""
+  description: Neurochemical signatures of the self reinforcing trail clearing behavior in leafcutter ants
+
+- title: Dr. Einat Couzin-Fuchs
+  organization_url: https://www.couzin-fuchs-lab.com/
+  organization: CASCB, University of Konstanz
+  date_start: "2020-06-01"
+  date_end: ""
+  description: "Identification of neuromoduators regulating the long range marching of gregarious locusts"
 ---
