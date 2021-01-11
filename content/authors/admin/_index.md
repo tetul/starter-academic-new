@@ -65,7 +65,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
+user_groups: Principal Investigator
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
