@@ -4,13 +4,13 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 65
+weight: 10
 
-title: Projects
-subtitle: ''
+title: Research
+subtitle: Current projects
 
 content:
   # Page type to display. E.g. project.
@@ -24,13 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
- # filter_button:
- # - name: All
- #   tag: '*'
- # - name: Deep Learning
- #   tag: Deep Learning
- # - name: Other
- #   tag: Demo
+  #filter_button:
+  #- name: All
+  #  tag: '*'
+  #- name: Biogenic amines
+  #  tag: Biogenic amines
+  #- name: Other
+  #  tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,5 +44,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

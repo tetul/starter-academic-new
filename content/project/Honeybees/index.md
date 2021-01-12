@@ -7,7 +7,7 @@ summary: "This project stems from my PhD work where I found a correlation betwee
 
 Histamine  is the transmitter of the photoreceptor, and is involved in behaviors including mechanosensation and circadian rhythmicity. However, it has not been given much importance in other behaviors. The finding that it might be involved in foraging behavior opens the possibility that its function in invertebrates and vertebrates are conserved, in regulating appetitive motivation."
 authors: []
-tags: []
+tags: [Honey bees, Histamine, Foraging]
 categories: []
 date: 2020-10-04T19:47:06+02:00
 

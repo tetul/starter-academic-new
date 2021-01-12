@@ -4,7 +4,7 @@
 title: "Modulation of sucrose responsiveness in ants"
 summary: "This is a bachelor thesis project with Sarah Peter. We will be using <i>Camponotus mus</i> to study the variation in sucrose responsiveness in freely moving ants, under different conditions of colony hunger states. In addition, we will study the modulation of this responsiveness by oral treatment of dopamine, a well known influencer of the reward system in animals. The experimental animals will be flash frozen for later analysis using mass spectrometry, to collect information about their neurochemical signatures"
 authors: []
-tags: []
+tags: [Ants, Biogenic amines, Thresholds]
 categories: []
 date: 2020-12-15
 
